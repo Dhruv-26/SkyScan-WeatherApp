@@ -22,7 +22,7 @@ With a user-friendly interface and accurate data from reputable weather APIs, yo
 
 # How to Use
 
-1. Open the WeatherSense Forecast website in your web browser from the link - (https://dhruv-26.github.io/SkyScan-WeatherApp/)
+1. Open the SkyScan Forecast website in your web browser from the link - (https://dhruv-26.github.io/SkyScan-WeatherApp/)
 2. Grant permission for the app to access your location when prompted.
 3. The app will display the current weather information for your area.
 4. To search for weather data by city name, enter the city name in the designated search bar and press Enter or click the search button.
@@ -30,16 +30,16 @@ With a user-friendly interface and accurate data from reputable weather APIs, yo
 
 # Installation
 
-No installation is required for this web application. Simply access the WeatherSense through your web browser from the link --link--
+No installation is required for this web application. Simply access the SkyScan through your web browser from the link --link--
 
 # Contributions
 
-Contributions to theWeatherSense project are welcome. If you find any issues or have suggestions for improvements, please feel free to submit a pull request 
+Contributions to the SkyScan project are welcome. If you find any issues or have suggestions for improvements, please feel free to submit a pull request 
 or open an issue in the GitHub repository.
 
 # License
 
-WeatherSense is created by me , which means you are free to use, modify, and distribute the code in accordance with the terms of the license.
+SkyScan is created by me , which means you are free to use, modify, and distribute the code in accordance with the terms of the license.
 
 # Acknowledgements
 
@@ -52,7 +52,7 @@ If you have any questions, feedback, or inquiries, please don't hesitate to reac
 
 # Final Thoughts
 
-I hope you find the WeatherSense useful for checking weather conditions in your area or any city you're interested in. Enjoy using the app and stay informed about the weather!
+I hope you find the SkyScan useful for checking weather conditions in your area or any city you're interested in. Enjoy using the app and stay informed about the weather!
 
-I hope you find the WeatherSense useful for checking weather conditions in your area or any city you're interested in. 
+I hope you find the SkyScan useful for checking weather conditions in your area or any city you're interested in. 
 Enjoy using the app and stay informed about the weather!
