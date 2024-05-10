@@ -53,6 +53,3 @@ If you have any questions, feedback, or inquiries, please don't hesitate to reac
 # Final Thoughts
 
 I hope you find the SkyScan useful for checking weather conditions in your area or any city you're interested in. Enjoy using the app and stay informed about the weather!
-
-I hope you find the SkyScan useful for checking weather conditions in your area or any city you're interested in. 
-Enjoy using the app and stay informed about the weather!
