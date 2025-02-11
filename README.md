@@ -1,5 +1,4 @@
 
-
 # SkyScan-WeatherApp: Current Weather Conditions and City-based Forecast
 
 SkyScan: Current Weather Conditions and City-based Forecast is a web application that provides real-time weather information for your location or any city you search for. 
